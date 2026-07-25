@@ -1,0 +1,16 @@
+=== LAB_REPORT — Example 3 ===
+
+METR0P0LIS HEALTHCARE
+
+Patient Name: P00ja Nair
+Patient lD: PT2O26O998
+Test Name: Fasting Bl00d Sugar
+Sample C0llected Date: 2O/O7/2O26
+Rep0rt Date: 21/O7/2O26
+Lab Technician: K. Sharma
+0rdered By: Dr. Ashish Gupta
+
+Test Results:
+Gluc0se          132 mg/dL      7O t0 99
+
+0verall Result: Abn0rmal

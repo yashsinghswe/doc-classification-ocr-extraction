@@ -1,0 +1,31 @@
+=== PATIENT_REGISTRATION — Example 3 ===
+
+APOLLO CITY HOSPITAL
+Patient Registrati0n Form
+
+Registrati0n Date: 12/O5/2O26
+
+Patient Name: Priya Menon
+Date of Birth: O8/O2/1995
+Gender: Female
+Blood Group: A+
+Contact Number: +91 98l2345678
+Address: Flat 14B, Green Meadows, Kakkanad, Kochi, Kerala 682030
+
+Emergency Contact
+Name: Ramesh Menon
+Relationship: Father
+Contact: +91 9895OO1234
+
+Insurance Provider: HDFC ERGO
+Policy Number: HDF9O24571
+
+Identity Proof: Aadhaar
+Marital Status: Single
+Occupation: Teacher
+
+Declarati0n:
+I certify the ab0ve inf0rmation is c0rrect.
+
+Patient Signature: ____________
+Receptionist: Anjali P.

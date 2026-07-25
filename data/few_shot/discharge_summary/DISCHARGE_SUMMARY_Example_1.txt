@@ -1,0 +1,31 @@
+=== DISCHARGE_SUMMARY — Example 1 ===
+
+FORTIS HOSPITAL, MOHALI
+DISCHARGE SUMMARY
+
+Hospital Name: Fortis Hospital, Mohali
+Patient Name: Rohan Malhotra
+Patient ID: PT202604512
+Admission Date: 10/07/2026
+Discharge Date: 14/07/2026
+Attending Physician: Dr. Ananya Sethi
+
+Final Diagnosis:
+Acute Viral Gastroenteritis with Dehydration
+
+Treatment Summary:
+Patient admitted with fever, vomiting, and loose stools. IV fluids, electrolyte correction,
+antiemetics, and antibiotics were administered. Symptoms improved steadily.
+
+Prescribed Medications:
+1. Pantoprazole 40 mg OD for 7 days
+2. Ondansetron 4 mg SOS
+3. ORS after every loose stool
+4. Probiotic capsule BD for 5 days
+
+Follow Up Date: 21/07/2026
+
+Condition at Discharge:
+Stable. Fit for discharge.
+
+Physician Signature: __________________

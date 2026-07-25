@@ -1,0 +1,31 @@
+=== PATIENT_REGISTRATION — Example 1 ===
+
+SUNRISE MULTISPECIALITY HOSPITAL
+PATIENT REGISTRATION FORM
+
+Registration Date: 18/07/2026
+
+Patient Name: Rahul Sharma
+Date of Birth: 14/09/1992
+Gender: Male
+Blood Group: B+
+Contact Number: +91 9876543210
+Address: H.No. 42, Sector 21, Dwarka, New Delhi, Delhi 110075
+
+Emergency Contact
+Name: Sunita Sharma
+Relationship: Wife
+Contact: +91 9811122233
+
+Insurance Provider: Star Health Insurance
+Policy Number: SHI458921673
+
+Identity Proof: Aadhaar
+Marital Status: Married
+Occupation: Software Engineer
+
+Declaration:
+I certify that the information provided is accurate.
+
+Patient Signature: ____________
+Receptionist: Priya Nair

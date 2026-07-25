@@ -1,0 +1,28 @@
+=== APPOINTMENT_LETTER — Example 3 ===
+
+MEDANTA THE MEDICITY
+
+App0intment Confirmati0n
+
+Patient Name: Sanjay Khanna
+Patient lD: PT2O26O73412
+
+Doctor: Dr. Nidhi Bansal
+Department: Neurol0gy
+
+Appointment Date: 28/O7/2O26
+Appointment Time: 11:15 AM
+
+Hospital: Medanta The Medicity, Gurugram
+
+Reason f0r Visit:
+Recurring headaches and dizziness.
+
+Instructions:
+1. Arrive 2O minutes bef0re app0intment.
+2. Bring previous prescrlptions.
+3. Carry identity proof.
+4. Fasting n0t required.
+
+Issued By:
+Patient Relati0ns Desk

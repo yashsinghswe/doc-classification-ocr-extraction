@@ -1,0 +1,26 @@
+=== DISCHARGE_SUMMARY — Example 3 ===
+
+AP0LL0 HOSPITAL
+DISCHARGE SUMMARY
+
+Patient Name: Ajay S1ngh
+Patient lD: PT2O26O7711
+Admission Date: O2/O5/2O26
+Discharge Date: O6/O5/2O26
+Attending Physician: Dr. Ritu Khanna
+
+Diagn0sis:
+Acute Appendicitis
+
+Treatment Summary:
+Lapar0sc0pic appendectomy perf0rmed successfully. Patient rec0vered well.
+
+Prescribed Medicati0ns:
+1. Cefixime 2OO mg BD
+2. Paracetam0l 65O mg SOS
+3. Pant0praz0le 4O mg OD
+
+F0llow Up Date: 13/O5/2O26
+
+C0ndition at Discharge:
+Stable.

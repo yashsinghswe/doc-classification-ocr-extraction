@@ -1,0 +1,29 @@
+# Virtual environment
+doc_pipeline_env/
+venv/
+env/
+
+# Models and generated data
+models/embedding_index.json
+models/review_queue.db
+models/
+
+# Data files
+data/scanned/
+data/digital_pdf/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

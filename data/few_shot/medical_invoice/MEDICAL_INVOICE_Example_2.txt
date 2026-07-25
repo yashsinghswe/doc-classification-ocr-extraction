@@ -1,0 +1,29 @@
+=== MEDICAL_INVOICE — Example 2 ===
+
+APOLLO HOSPITALS, CHENNAI
+PATIENT BILL
+
+Hospital Name : Apollo Hospitals, Chennai
+GSTIN         : 33AACCA5678Q1Z5
+Invoice Number: AP20260722118
+Invoice Date  : 22/07/2026
+
+Patient Name  : Lakshmi Narayanan
+Patient ID    : PT202606188
+
+Itemised Charges
+------------------------------------------------
+Doctor Consultation            INR 1,500.00
+MRI Scan                       INR 8,500.00
+Medicines                      INR 2,980.00
+Nursing Charges                INR 1,250.00
+Room Charges (2 Days)          INR 9,000.00
+------------------------------------------------
+Subtotal                       INR 23,230.00
+GST (5%)                       INR 1,161.50
+Total Amount                   INR 24,391.50
+
+Payment Status : PENDING
+
+Billing Officer
+Apollo Hospitals

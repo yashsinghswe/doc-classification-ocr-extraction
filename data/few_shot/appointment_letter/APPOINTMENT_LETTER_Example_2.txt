@@ -1,0 +1,28 @@
+=== APPOINTMENT_LETTER — Example 2 ===
+
+MANIPAL HOSPITAL
+
+Appointment Confirmation
+
+Patient Name: Kavita Rao
+Patient ID: PT2026059831
+
+Doctor: Dr. Arvind Iyer
+Department: Orthopaedics
+
+Appointment Date: 14/08/2026
+Appointment Time: 03:45 PM
+
+Hospital: Manipal Hospital, Whitefield, Bengaluru
+
+Reason for Visit:
+Evaluation of persistent knee pain after sports injury.
+
+Instructions:
+1. Carry MRI and X ray reports.
+2. Wear comfortable clothing.
+3. Reach 15 minutes before appointment.
+4. Continue prescribed medicines.
+
+Appointment Coordinator:
+R. Thomas

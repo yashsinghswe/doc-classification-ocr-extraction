@@ -1,0 +1,28 @@
+=== MEDICAL_INVOICE — Example 3 ===
+
+MAX SUPER SPECIALITY HOSPITAL
+TAX INV0ICE
+
+Hospital Name : Max Super Speciality H0spital
+GSTlN         : O7AAACM4321P1Z8
+lnvoice Number: MX2O26O7319
+Invoice Date  : 23/O7/2O26
+
+Patient Name  : S0nia Mehta
+Patient lD    : PT2O26O945
+
+ltemised Charges
+------------------------------------------------
+C0nsultation Fee              INR 1,2OO.OO
+X Ray                         INR 2,1OO.OO
+Medicines                     INR 1,845.OO
+R00m Charges                  INR 6,OOO.OO
+------------------------------------------------
+Subt0tal                      INR 11,145.OO
+Tax                           INR 557.25
+T0tal Amount                  INR 11,7O2.25
+
+Payment Status : PAlD
+
+Auth0rized Signat0ry
+Acc0unts Department

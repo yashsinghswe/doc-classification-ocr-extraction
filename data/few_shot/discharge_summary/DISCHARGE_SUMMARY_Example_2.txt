@@ -1,0 +1,30 @@
+=== DISCHARGE_SUMMARY — Example 2 ===
+
+NARAYANA HEALTH
+DISCHARGE SUMMARY
+
+Hospital Name: Narayana Health, Bengaluru
+Patient Name: Sneha Kulkarni
+Patient ID: PT202605887
+Admission Date: 18/06/2026
+Discharge Date: 22/06/2026
+Attending Physician: Dr. Vivek Rao
+
+Diagnosis:
+Community Acquired Pneumonia
+
+Treatment Summary:
+Patient treated with IV antibiotics, nebulization, oxygen support, and physiotherapy.
+Clinical improvement noted before discharge.
+
+Prescribed Medications:
+1. Amoxicillin Clavulanate 625 mg TID
+2. Paracetamol 650 mg SOS
+3. Steam inhalation twice daily
+
+Follow Up Date: 29/06/2026
+
+Discharge Advice:
+Complete medication course and return if fever recurs.
+
+Physician Signature: __________________

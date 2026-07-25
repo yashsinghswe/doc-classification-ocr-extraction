@@ -1,0 +1,19 @@
+=== LAB_REPORT — Example 2 ===
+
+LAL PATHLABS
+
+Patient Name: Vikram Chawla
+Patient ID: PT202603451
+Test Name: Liver Function Test
+Sample Collected Date: 15/07/2026
+Report Date: 16/07/2026
+Lab Technician: Neeraj Kumar
+Ordered By: Dr. R. Menon
+
+Test Results:
+ALT              68 U/L      0 to 55
+AST              59 U/L      5 to 40
+Bilirubin Total  1.0 mg/dL   0.2 to 1.2
+Albumin          4.2 g/dL    3.5 to 5.0
+
+Overall Result: Abnormal

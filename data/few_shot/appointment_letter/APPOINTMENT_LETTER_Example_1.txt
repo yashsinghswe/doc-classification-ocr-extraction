@@ -1,0 +1,29 @@
+=== APPOINTMENT_LETTER — Example 1 ===
+
+MAX SUPER SPECIALITY HOSPITAL
+
+Appointment Confirmation
+
+Patient Name: Ankit Gupta
+Patient ID: PT2026071458
+
+Doctor: Dr. Meera Kapoor
+Department: Cardiology
+
+Appointment Date: 25/07/2026
+Appointment Time: 10:30 AM
+
+Hospital: Max Super Speciality Hospital, Saket
+
+Reason for Visit:
+Routine cardiac evaluation and hypertension follow up.
+
+Instructions:
+1. Reach 20 minutes early.
+2. Carry previous ECG and blood reports.
+3. Bring insurance card.
+4. Continue regular medicines unless advised otherwise.
+
+Issued By:
+Appointments Desk
+Contact: +91 11 45678900

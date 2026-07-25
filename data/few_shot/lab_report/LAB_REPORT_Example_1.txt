@@ -1,0 +1,19 @@
+=== LAB_REPORT — Example 1 ===
+
+THYROCARE LABORATORIES
+
+Patient Name: Meena Joshi
+Patient ID: PT202601224
+Test Name: Complete Blood Count (CBC)
+Sample Collected Date: 08/07/2026
+Report Date: 09/07/2026
+Lab Technician: S. Patil
+Ordered By: Dr. Amit Deshpande
+
+Test Results:
+Hemoglobin          13.8 g/dL      12.0 to 15.5
+WBC Count           7200 /uL       4000 to 11000
+Platelets           2.85 lakh/uL   1.5 to 4.5 lakh/uL
+RBC Count           4.7 million/uL 4.2 to 5.4
+
+Overall Result: Normal

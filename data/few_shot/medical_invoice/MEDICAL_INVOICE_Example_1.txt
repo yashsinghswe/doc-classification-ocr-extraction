@@ -1,0 +1,29 @@
+=== MEDICAL_INVOICE — Example 1 ===
+
+FORTIS HOSPITAL, MOHALI
+TAX INVOICE
+
+Hospital Name : Fortis Hospital, Mohali
+GSTIN         : 03AABCF1234L1Z9
+Invoice No.   : INV20260718041
+Invoice Date  : 18/07/2026
+
+Patient Name  : Rohan Malhotra
+Patient ID    : PT202604512
+
+Itemised Charges
+------------------------------------------------
+Consultation Fee               INR 1,200.00
+Blood Tests                    INR 2,450.00
+IV Fluids & Consumables        INR 1,850.00
+Medicines                      INR 3,275.00
+Room Charges (4 Days)          INR 12,000.00
+------------------------------------------------
+Subtotal                       INR 20,775.00
+GST (5%)                       INR 1,038.75
+Total Amount                   INR 21,813.75
+
+Payment Status : PAID
+
+Authorized Signatory
+Accounts Department

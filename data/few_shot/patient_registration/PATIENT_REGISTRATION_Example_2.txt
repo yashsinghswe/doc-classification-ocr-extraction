@@ -1,0 +1,31 @@
+=== PATIENT_REGISTRATION — Example 2 ===
+
+FORTCARE HOSPITAL
+PATIENT REGISTRATION FORM
+
+Registration Date: 05/06/2026
+
+Patient Name: Neha Verma
+Date of Birth: 22/11/1988
+Gender: Female
+Blood Group: O+
+Contact Number: +91 9988776655
+Address: Flat 803, Orchid Residency, Baner, Pune, Maharashtra 411045
+
+Emergency Contact
+Name: Amit Verma
+Relationship: Husband
+Contact: +91 9765432109
+
+Insurance Provider: ICICI Lombard General Insurance
+Policy Number: ICL782194551
+
+Identity Proof: PAN Card
+Marital Status: Married
+Occupation: Chartered Accountant
+
+Declaration:
+Patient confirms all details are correct.
+
+Patient Signature: ____________
+Registration Officer: S. Kulkarni
